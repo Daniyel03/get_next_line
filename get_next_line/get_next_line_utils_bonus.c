@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: dscholz <dscholz@student.42vienna...>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/25 16:05:09 by dscholz           #+#    #+#             */
-/*   Updated: 2023/10/25 16:05:14 by dscholz          ###   ########.fr       */
+/*   Created: 2023/10/25 16:05:38 by dscholz           #+#    #+#             */
+/*   Updated: 2023/10/25 16:05:43 by dscholz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *str)
 {
